@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+acceso_presupuesto_usuario,acceso presupuesto usuario,model_presupuesto,group_pelicula_usuario,1,1,1,1
+acceso_presupuesto_detalle_usuario,acceso presupuesto detalle usuario,model_presupuesto_detalle,group_pelicula_usuario,1,1,1,1
+acceso_recurso_cinematografico_usuario,acceso recurso cinematografico detalle usuario,model_recurso_cinematrogafico,group_pelicula_usuario,1,1,1,1
+acceso_genero_usuario,acceso genero usuario,model_genero,group_pelicula_usuario,1,1,1,1
+
+acceso_presupuesto_administrador,acceso presupuesto administrador,model_presupuesto,group_pelicula_administrador,1,1,1,1
+acceso_presupuesto_detalle_administrador,acceso presupuesto administrador,model_presupuesto_detalle,group_pelicula_administrador,1,1,1,1
+acceso_recurso_cinematografico_administrador,acceso recurso cinematografico detalle administrador,model_recurso_cinematrogafico,group_pelicula_administrador,1,1,1,1
+acceso_genero_administrador,acceso genero administrador,model_genero,group_pelicula_administrador,1,1,1,1
+acceso_update_wizard,acceso wizard update,model_update_wizard,group_pelicula_administrador,1,1,1,1
